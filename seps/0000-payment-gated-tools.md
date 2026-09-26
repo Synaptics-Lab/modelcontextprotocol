@@ -1,4 +1,3 @@
-```markdown
 # SEP-0000: Payment-Gated Tool Execution & Challenge Protocol Extension (MCP-402)
 - **Status**: Draft
 - **Type**: Extensions Track
